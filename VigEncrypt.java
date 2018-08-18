@@ -1,6 +1,8 @@
 /*****************
 Author: Yours truly
 Date: Before I knew Java all that well
+
+Acts as a model class
 *****************/
 
 import java.lang.*;
