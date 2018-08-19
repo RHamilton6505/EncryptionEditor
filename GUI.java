@@ -92,8 +92,8 @@ class GUI extends JFrame implements ActionListener{
         }
         f1.close();
       }
-      catch(Exception e){
-
+      catch(Exception ae){
+        System.out.println("Failed to save");
       }
 
     }
